@@ -16,3 +16,5 @@ The homework assignments for the course are written in LaTeX, a high-quality doc
 1. [Basics of Sampling and Estimation](https://github.com/sachinmargam/Monte-Carlo-Simulations-for-Financial-Mathematics/blob/main/FIM_548_Homework1.pdf)
 2. [Simulation of SDEs for Finance](https://github.com/sachinmargam/Monte-Carlo-Simulations-for-Financial-Mathematics/blob/main/FIM_548_Homework2.pdf)
 3. [Variance Reductions Techniques](https://github.com/sachinmargam/Monte-Carlo-Simulations-for-Financial-Mathematics/blob/main/FIM_548_Homework3.pdf)
+4. [American Options](https://github.com/sachinmargam/Monte-Carlo-Simulations-for-Financial-Mathematics/blob/main/FIM_548_Homework4.pdf)
+5. [Markov Chain Monte Carlo](https://github.com/sachinmargam/Monte-Carlo-Simulations-for-Financial-Mathematics/blob/main/FIM_548_Homework5.pdf)
